@@ -45,29 +45,29 @@ body {
 }
 
 .panel1 {
-  background-color: #d65108;
-  background-size: cover;
+  background-image: url(/src/Image3.avif);
   background-image: url(/src/Image3.webp);
+  background-size: cover;
 }
 .panel2 {
-  background-color: #d65108;
+  background-image: url(/src/Image4.avif);
+  background-image: url(/src/Image4.webp);
   background-size: cover;
-  background-image: url(/src/Image6.webp);
 }
 .panel3 {
-  background-color: #d65108;
-  background-size: cover;
+  background-image: url(/src/Image8.avif);
   background-image: url(/src/Image8.webp);
+  background-size: cover;
 }
 .panel4 {
-  background-color: #d65108;
-  background-size: cover;
+  background-image: url(/src/Image2.avif);
   background-image: url(/src/Image2.webp);
+  background-size: cover;
 }
 .panel5 {
-  background-color: #d65108;
-  background-size: cover;
+  background-image: url(/src/Image5.avif);
   background-image: url(/src/Image5.webp);
+  background-size: cover;
 }
 
 /* Flex Children */
